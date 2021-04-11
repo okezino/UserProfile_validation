@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Registration</string>
+    <string-array name="Sex">
+         <item></item>
+        <item>FEMALE</item>
+        <item>MALE</item>
+        <item>LGBT</item>
+    </string-array>
+</resources>
